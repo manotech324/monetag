@@ -1,0 +1,6 @@
+{
+  "name": "TweetLink - Monetag Twitter Card Shortener",
+  "description": "Shorten Monetag links with auto-detecting Twitter/X image preview cards, custom titles, bot scrapers handling, and real-time click tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

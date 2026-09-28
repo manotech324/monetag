@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b2bb0afc-d4b2-497c-ad51-674314c00cc1",
+    "slug": "diy-videos",
+    "destinationUrl": "https://omg10.com/4/11800191",
+    "imageUrl": "https://iili.io/n7IHDGI.jpg",
+    "title": "mydiyvideos",
+    "description": "Click to view the full details and live media.",
+    "createdAt": "2026-09-28T05:13:25.003Z",
+    "clicks": 0,
+    "botHits": 1,
+    "recentClicks": [
+      {
+        "timestamp": "2026-09-28T05:15:29.411Z",
+        "userAgent": "facebookexternalhit/1.1",
+        "referer": "Direct",
+        "isBot": true
+      }
+    ]
+  },
+  {
+    "id": "511f6d77-c5b8-49e3-bf5e-87af2c74e910",
+    "slug": "amazon",
+    "destinationUrl": "https://omg10.com/4/11800191",
+    "imageUrl": "https://iili.io/n7zcwdX.jpg",
+    "title": "Exclusive Leak & Full Video",
+    "description": "Click to watch the full video now before it gets taken down.",
+    "createdAt": "2026-09-26T07:14:21.201Z",
+    "clicks": 1,
+    "botHits": 4,
+    "recentClicks": [
+      {
+        "timestamp": "2026-09-28T05:37:03.596Z",
+        "userAgent": "Twitterbot/1.0",
+        "referer": "Direct",
+        "isBot": true
+      },
+      {
+        "timestamp": "2026-09-26T07:25:21.435Z",
+        "userAgent": "Twitterbot/1.0",
+        "referer": "Direct",
+        "isBot": true
+      }
+    ],
+    "lastClickedAt": "2026-09-26T07:14:27.705Z"
+  }
+]
